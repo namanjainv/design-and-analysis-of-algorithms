@@ -1,0 +1,12 @@
+s: Frankfurt
+p: Frankfurt Mannheim 85
+p: Wurzburg Frankfurt 217
+p: Frankfurt Kassel 173
+p: Mannheim Karlsruhe 80
+p: Wurzburg Erfurt 186
+p: Numberg Wurzburg 103
+p: Numberg Stuttgart 183
+p: Kassel Munchen 502
+p: Munchen Numberg 167
+p: Munchen Augsburg 84
+p: Augsburg Karlsruhe 250
